@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{69C9FFBC-4526-B174-C906-8593A49DF694}",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -25,10 +25,6 @@
 		},
 		{
 			"Name": "CommonUI",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
